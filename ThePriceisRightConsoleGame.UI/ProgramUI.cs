@@ -7,7 +7,7 @@ using ThePriceisRightCosoleGame.Data;
 
 namespace ThePriceisRightConsoleGame.UI
 {//user interactions
-    class Program
+    class ProgramUI
     {
         static void Main(string[] args)
         {
