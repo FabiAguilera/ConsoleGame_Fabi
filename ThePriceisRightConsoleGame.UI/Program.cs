@@ -59,7 +59,9 @@ namespace ThePriceisRightConsoleGame.UI
             Console.Clear();
 
 
-            Console.WriteLine("");
+            Console.WriteLine("Blend with ease in this stylish, Cuisinart Smartpower Chrome Finish Blender. \n" +
+                " This powerful blender features stainless steel blades, a 40-ounce glass jar with dripless spout, ice crusher capacity, touch pad controls with indicator lights, and a leak-resistant cover");
+
             Console.WriteLine("Please enter your bid: ");
 
             GameRepo gameRepoThree = new GameRepo();
